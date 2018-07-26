@@ -1,0 +1,19 @@
+	/* visual-composer options */
+	.container.bootstrap {
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+	
+	.vc_row-has-fill>.vc_column_container>.vc_column-inner
+	{
+		padding-top: 0px !important;
+	}
+	 
+	body {
+		overflow-x: hidden;
+	}
+	
+	.updated.vc_license-activation-notice {
+		display:none;
+	}
+	

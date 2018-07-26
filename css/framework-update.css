@@ -1,0 +1,37 @@
+/* use this file just theme versions */
+
+/* 1.1 version */
+.wpcf7 input , .wpcf7 textarea {
+    margin-bottom: 15px;
+}
+
+@media  (max-width: 480px){ 
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+	.wpb_wrapper p {
+		text-align: center;
+	}
+	
+	.app-store-btn {
+		text-align:center;
+	}
+	.app-store-btn a{
+		margin-right : 0px;
+		margin-bottom : 20px;
+	}
+}
+
+.app-store-btn a{
+	margin-right : 20px;
+	margin-bottom : 20px;
+}
+
+.booked-form label {
+	width: auto !important;
+}
+
+.list-style-none li i {
+    margin-right: 15px;
+}
