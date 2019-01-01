@@ -49,7 +49,7 @@
 					<span style="color:red;">fatal error</span> oluşturabilecek bazı durumları engellemek amacıyla oluşturulmuştur.<br>
 					****** Tema klasörü içerisindeki bazı .php dosyalarının tema ile alakası olmamasına rağmen wordpress mimarisinin düzgün çalışabilmesi için oluşturulmuştur.<br>
 					<h2>Haber Botu Hakkında;</h2>Sol tarafta bulunan admin menüsünde en üst kısıma bir haber çekme botu eklenmiştir detaylı anlatımını menüden tıklayarak öğrenebilirsiniz.<br><br>
-					 -<b>Murat Aslan (3010717676)</b>
+					 -<b>Murat Aslan</b>
 
 
 
@@ -117,7 +117,7 @@ function haber_botu(){
 						***Tek seferde yalnızca 1 haber eklenebilir. <br>
 						****BBC Türkçe Adresine Gitmek İçin<a target="blank" href="https://www.bbc.com/turkce"> Tıklayın</a><br>
 					</small><br>
-					<b style="color:green;">- Murat Aslan | KMYO | Öğr. No: 3010717676</b>
+					<b style="color:green;">- Murat Aslan | KMYO | Öğr. No: ****</b>
 				</div>
 			</div>
 		</div>
